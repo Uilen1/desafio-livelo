@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		tags = {"@Validado"}, 
-		features = "src/test/java/br/com/desafiolivelo/features/", 
+		features = "src/test/resources/br/com/desafiolivelo/features/", 
 		glue = "br.com.desafiolivelo.steps", 
 		snippets = SnippetType.CAMELCASE,
 		plugin = {
