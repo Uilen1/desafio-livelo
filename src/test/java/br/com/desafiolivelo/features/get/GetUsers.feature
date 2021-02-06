@@ -15,4 +15,4 @@
   Cenário: Pesquisar por usuário não existente
    Dado que eu acesso a rota "/api/users/" com o ID do usuário "23"
    Então é retornado o status code "404"
-  
+   
