@@ -10,7 +10,7 @@
 ## 1.2. Estrutura do Projeto
 - As features do projeto são encontradas na rota indicada na imagem abaixo:
 
-![image](https://user-images.githubusercontent.com/42755635/107129756-89c23c80-68a6-11eb-952a-9d2b7ecbe240.png)
+![image](https://user-images.githubusercontent.com/42755635/107129981-3cdf6580-68a8-11eb-8fdf-4afa681750f3.png)
 
 - As classes que contém os métodos:
 
